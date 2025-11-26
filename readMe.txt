@@ -2,7 +2,7 @@
 
 A powerful Node.js application that uses **AI embeddings** and **vector search** to find and extract character information from stories. The system stores stories in Pinecone vector database and leverages Mistral AI for intelligent character matching and information extraction.
 
-![Terminal Demo](https://via.placeholder.com/800x400/1e1e1e/00ff00?text=Story+Character+Search+Demo)
+
 
 ## ✨ Features
 
@@ -436,6 +436,7 @@ Having issues? Here's how to get help:
    - Your error message
    - Steps to reproduce
    - Environment details (Node version, OS)
+
 
 
 
