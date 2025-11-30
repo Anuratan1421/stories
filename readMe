@@ -4,6 +4,7 @@ A powerful Node.js application that uses **AI embeddings** and **vector search**
 
 
 
+
 ## ✨ Features
 
 - 📚 **Multi-Story Loading** - Automatically loads all story files from a directory
@@ -436,6 +437,7 @@ Having issues? Here's how to get help:
    - Your error message
    - Steps to reproduce
    - Environment details (Node version, OS)
+
 
 
 
